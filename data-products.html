@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2017-08-14" />
+    <meta name="dc.date.modified" content="2018-02-05" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -152,7 +152,7 @@ and the
 <a href="https://archive.stsci.edu/">Mikulski Archive for Space Telescopes (MAST)</a>
 which is hosted at the
 <a href="http://www.stsci.edu/">Space Telescope Science Institute (STScI)</a>. The
-Exoplanet Archive primarily hosts data related to the Kepler and K2 mission planet searches while the MAST is responsible for hosting time series data and spacecraft calibration products for Kepler and K2. </p>
+Exoplanet Archive primarily hosts data related to the Kepler and K2 mission planet searches while the MAST is responsible for hosting time series data and spacecraft calibration products for Kepler and K2.</p>
 <p>In the following sections we list the main products from Kepler and
 K2, and we describe a few of the products in some detail.  For tools
 and tips on
@@ -176,6 +176,7 @@ below.</p>
 <br/></li>
 <li><a href="https://archive.stsci.edu/k2/epic.pdf">K2 Ecliptic Plane Input Catalog (EPIC)</a></li>
 <li><a href="data-products.html#k2-data-release-notes">K2 Data Release Notes</a></li>
+<li><a href="http://archive.stsci.edu/k2/manuals/k2_handbook.pdf">K2 Handbook</a></li>
 </ul>
 <h2 id="kepler-product-overview">Kepler product overview</h2>
 <p>The <a href="https://archive.stsci.edu/kepler/">Kepler mission page at MAST</a> contains the latest news and updates
@@ -232,7 +233,7 @@ archive</a>.</p>
 <p>Kepler long cadence (30-min) images and light curves are stored in files that
 span a quarter. Short cadence (1-min) images and light curves are
 stored in files that span a month.</p>
-<p><a href="https://archive.stsci.edu/kepler/data_release.html">All Kepler data release notes can be found at MAST</a>. </p>
+<p><a href="https://archive.stsci.edu/kepler/data_release.html">All Kepler data release notes can be found at MAST</a>.</p>
 <table class="table table-striped table-hover" style="max-width:40em;">
 <thead>
 <tr>
@@ -538,6 +539,33 @@ which detail deviations from the pipeline used for Kepler.</p>
 <td><a href="k2-data-release-notes.html#k2-campaign-10">DRN</a></td>
 <td><a href="/k2-pipeline-release-notes.html#data-release-15">PRN</a></td>
 </tr>
+<tr>
+<td>C11</td>
+<td>4</td>
+<td>2016 Sep 24</td>
+<td>2016 Dec 8</td>
+<td>2017 Jun 30</td>
+<td><a href="k2-data-release-notes.html#k2-campaign-11">DRN</a></td>
+<td><a href="/k2-pipeline-release-notes.html#data-release-17">PRN</a></td>
+</tr>
+<tr>
+<td>C12</td>
+<td>4</td>
+<td>2016 Dec 15</td>
+<td>2017 Mar 4</td>
+<td>2017 Jul 31</td>
+<td><a href="k2-data-release-notes.html#k2-campaign-12">DRN</a></td>
+<td><a href="/k2-pipeline-release-notes.html#data-release-18">PRN</a></td>
+</tr>
+<tr>
+<td>C13</td>
+<td>4</td>
+<td>2017 Mar 8</td>
+<td>2017 May 27</td>
+<td>2017 Aug 28</td>
+<td><a href="k2-data-release-notes.html#k2-campaign-13">DRN</a></td>
+<td><a href="/k2-pipeline-release-notes.html#data-release-19">PRN</a></td>
+</tr>
 </tdata>
 </table>
 <h2 id="main-data-products">Main data products</h2>
@@ -559,7 +587,7 @@ also be downloaded through MAST</a>.</p>
 Manual</a>. Note
 that as of August 2016, the Kepler detector has three dead modules (3,
 4 and
-7). </p>
+7).</p>
 <p><br/></p>
 <p><img class="img-responsive" src="images/kepler-fov-full.jpg" style="min-width:97%;"/></p>
 <p><br/></p>
@@ -587,7 +615,7 @@ a redistribution of flux within the postage stamp pixels.  Similar
 steps are performed for K2 targets.</p>
 <p>The target pixel files are the rawest form of target-specific data
 available from the Kepler and K2 archives at MAST.  The TPF data format is defined in section 2.3.2 of the <a href="http://archive.stsci.edu/kepler/manuals/archive_manual.pdf">Kepler Archive
-Manual</a>. </p>
+Manual</a>.</p>
 <p><br/></p>
 <p><img class="img-responsive" src="images/TPF-FV3.jpg" style="min-width:97%;"/></p>
 <p><br/></p>
@@ -617,7 +645,7 @@ moving around within the pixel apertures. These effects are greater
 for K2 as the pointing is not as stable as for Kepler, due to
 low-frequency motion due to solar pressure and subsequent thruster
 firings. These cause targets to drift across detector pixels and are
-the dominant factor in photometric precision from K2 after photon statistics. </p>
+the dominant factor in photometric precision from K2 after photon statistics.</p>
 <p>Within the pipeline, artifacts are mitigated for using a derivative of principle component analysis. The product of this analysis is provided within the light curve. It is the prerogative of archive users to determine whether the pipeline mitigation is suitable for their scientific goals or whether manual mitigation will be required.</p>
 <p>Light curve files also contain centroid measurements derived from the
 TPFs. Since many artifacts are the result of target motion within its
@@ -707,12 +735,8 @@ that PRFs are only available for Kepler.</p>
       <div class="row">
         <div class="col-xs-12">
           <h5><i class="fa fa-external-link"></i><span class="icon-label">Related websites:</span></h5>
-          <a href="http://www.nasa.gov/mission_pages/kepler/main/index.html" target="_blank">
+          <a href="http://www.nasa.gov/kepler" target="_blank">
                   Kepler/K2 News and Media Resources
-              </a>
-          <br/>
-          <a href="http://kepler.arc.nasa.gov" target="_blank">
-                  Kepler/K2 Education Resources
               </a>
           <br/>
           <a href="http://www.ballaerospace.com/page.jsp?page=72" target="_blank">
@@ -737,7 +761,7 @@ that PRFs are only available for Kepler.</p>
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Thu 10 August 2017
+         Last modified: Sun 04 February 2018
             &middot; Editor: Geert Barentsen &middot; NASA Official: Jessie Dotson
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
