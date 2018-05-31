@@ -1,5 +1,255 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2018-04-03T12:00:00-07:00</updated><entry><title>We are hiring for a Kepler/K2 Support Scientist!</title><link href="https://keplerscience.arc.nasa.gov/we-are-hiring-for-a-keplerk2-support-scientist.html" rel="alternate"></link><published>2018-04-03T12:00:00-07:00</published><updated>2018-04-03T12:00:00-07:00</updated><author><name>Jeff Coughlin</name></author><id>tag:keplerscience.arc.nasa.gov,2018-04-03:/we-are-hiring-for-a-keplerk2-support-scientist.html</id><summary type="html">&lt;p&gt;The Kepler/K2 Science Center is seeking to fill a staff position within the Kepler/K2 Science Office (SO) at NASA’s Ames Research Center and with the SETI Institute&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;img src="images/we-are-hiring-banner.jpg" alt="hiring banner"&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2018-05-31T08:00:00-07:00</updated><entry><title>K2 Campaign 16 processed data available</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-16-processed-data-available.html" rel="alternate"></link><published>2018-05-31T08:00:00-07:00</published><updated>2018-05-31T08:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-05-31:/k2-campaign-16-processed-data-available.html</id><summary type="html">&lt;p&gt;The pipeline-processed data for K2 Campaign 16
+are now available for download
+from the &lt;a href="http://archive.stsci.edu/k2"&gt;K2 data archive at MAST&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="k2-approved-programs.html#campaign-16"&gt;target list&lt;/a&gt; featured
+20,647 stars alongside 9,241 galaxies for the 
+&lt;a href="supernova-experiment"&gt;supernova experiment&lt;/a&gt;&lt;/b&gt;.
+Highlights included the M44 (Beehive) and M67 clusters, 
+dozens of exoplanets and exoplanet candidates revealed by …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The pipeline-processed data for K2 Campaign 16
+are now available for download
+from the &lt;a href="http://archive.stsci.edu/k2"&gt;K2 data archive at MAST&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="k2-approved-programs.html#campaign-16"&gt;target list&lt;/a&gt; featured
+20,647 stars alongside 9,241 galaxies for the 
+&lt;a href="supernova-experiment"&gt;supernova experiment&lt;/a&gt;&lt;/b&gt;.
+Highlights included the M44 (Beehive) and M67 clusters, 
+dozens of exoplanets and exoplanet candidates revealed by K2 Campaign 5,
+and many late-type flare stars observed in short cadence.&lt;/p&gt;
+&lt;p&gt;Uniquely, the spacecraft was pointing along the forward-facing direction
+of the spacecraft's velocity vector during this Campaign,
+which allowed the field to be accessed from Earth.
+This enabled K2's single-bandpass photometry
+to be complemented with &lt;a href="share-your-plan-for-k2-campaign-16-ancillary-observations.html"&gt;simultaneous observations from the ground&lt;/a&gt;.
+For example, &lt;a href="panstarrs-monitoring-of-the-k2-campaign-16-field.html"&gt;PanSTARRS monitored the entire field every night in two filters&lt;/a&gt;
+(cycling through g+r and g+i)
+for the purpose of providing early alerts for transients in the field,
+which were made public instantly via the 
+&lt;a href="https://wis-tns.weizmann.ac.il"&gt;Transient Name Server&lt;/a&gt;.
+The PanSTARRS imaging data is currently being transferred to the data archive at MAST and is expected to become available to the public in the course of July.&lt;/p&gt;
+&lt;p&gt;As a reminder: users are strongly encouraged to contact, cite, and collaborate with the teams who proposed the observations, as listed on the &lt;a href="k2-approved-programs.html#campaign-16"&gt;Approved Progams &amp;amp; Targets page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Please keep an eye on our website for an announcement of the release
+and the associated &lt;a href="k2-data-release-notes.html"&gt;data release notes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="images/k2/k2-c16-field.png"&gt;&lt;img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c16-field.png" alt="K2 C16 Field"&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>Meet Kepler/K2 staff at AAS 232 in Denver</title><link href="https://keplerscience.arc.nasa.gov/meet-keplerk2-staff-at-aas-232-in-denver.html" rel="alternate"></link><published>2018-05-29T12:00:00-07:00</published><updated>2018-05-29T12:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-05-29:/meet-keplerk2-staff-at-aas-232-in-denver.html</id><summary type="html">&lt;p&gt;Members of the Kepler/K2 team will staff a booth in the exhibit hall
+at the &lt;a href="https://aas.org/meetings/aas232"&gt;upcoming Summer AAS meeting&lt;/a&gt;
+in Denver, Colorado.&lt;/p&gt;
+&lt;p&gt;Between July 4 and 6, 2018, you will be able
+to find Jessie Dotson (K2 Project Scientist),
+Geert Barentsen (K2 GO Director),
+and Knicole Colón (K2 Mission …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Members of the Kepler/K2 team will staff a booth in the exhibit hall
+at the &lt;a href="https://aas.org/meetings/aas232"&gt;upcoming Summer AAS meeting&lt;/a&gt;
+in Denver, Colorado.&lt;/p&gt;
+&lt;p&gt;Between July 4 and 6, 2018, you will be able
+to find Jessie Dotson (K2 Project Scientist),
+Geert Barentsen (K2 GO Director),
+and Knicole Colón (K2 Mission Expert) at Exhibit Booth #309,
+which we will share with our friends from
+&lt;a href="http://nexsci.caltech.edu"&gt;NASA's Exoplanet Science Institute&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We will be able to update you about the Kepler spacecraft status,
+answer your questions about the upcoming K2 Cycle 7 funding opportunity,
+and demonstrate the &lt;a href="http://lightkurve.keplerscience.org"&gt;new lightkurve data analysis package&lt;/a&gt;.
+Come say hello and grab a Kepler sticker!&lt;/p&gt;</content></entry><entry><title>K2 Campaign 17 completed successfully; Campaign 18 underway</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-17-completed-successfully-campaign-18-underway.html" rel="alternate"></link><published>2018-05-14T15:30:00-07:00</published><updated>2018-05-14T15:30:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-05-14:/k2-campaign-17-completed-successfully-campaign-18-underway.html</id><summary type="html">&lt;p&gt;Good news! The Kepler spacecraft successfully completed its 
+&lt;a href="k2-campaign-17-science-program-now-available.html"&gt;K2 Campaign 17&lt;/a&gt; last week,
+on May 8th, and the full data set has now been downlinked to Earth.&lt;/p&gt;
+&lt;p&gt;To enable users to make use of the current visibility of the Campaign 17 field
+from the ground, the raw C17 data have …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Good news! The Kepler spacecraft successfully completed its 
+&lt;a href="k2-campaign-17-science-program-now-available.html"&gt;K2 Campaign 17&lt;/a&gt; last week,
+on May 8th, and the full data set has now been downlinked to Earth.&lt;/p&gt;
+&lt;p&gt;To enable users to make use of the current visibility of the Campaign 17 field
+from the ground, the raw C17 data have been made public immediately
+via the &lt;a href="https://archive.stsci.edu/pub/k2/raw_cadence_data/c17/"&gt;K2 data archive at MAST&lt;/a&gt;.
+The Campaign was focused, in part, on supernova science,
+and it is thought that approximately 27 candidate supernova events
+have been captured in the telemetered pixels.&lt;/p&gt;
+&lt;p&gt;The use of the raw, uncalibrated data files requires an intimate understanding
+of their &lt;a href="raw-data-for-k2-campaign-12-and-trappist-1-now-available.html"&gt;format and caveats&lt;/a&gt;.
+For scientific investigations that are not time-critical,
+we recommend that users wait for the calibrated and quality-controlled
+data products to become available in approximately 3 months.  &lt;/p&gt;
+&lt;p&gt;Meanwhile, K2 Campaign 18 successfully started on Sunday morning,
+May 13th, near midnight UTC. 
+Uniquely, Campaign 18 is the third visit to the &lt;em&gt;K2 legacy field&lt;/em&gt;
+which includes both the M44 (Beehive) and M67 open star clusters.
+Campaign 18 overlaps entirely with C5, and partially with C16,
+providing a dataset with a 3-year baseline and 8-month duty cycle
+towards a Galactic sightline that is located 130 degrees away from the original Kepler field in Cygnus.&lt;/p&gt;
+&lt;p&gt;&lt;a href="images/k2/k2-c18-field.png"&gt;&lt;img class="img-responsive" style="max-width:500px;" src="images/k2/k2-c18-field.png" alt="C18 Field"&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>K2 Campaign 16 data processing complete</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-16-data-processing-complete.html" rel="alternate"></link><published>2018-05-14T12:00:00-07:00</published><updated>2018-05-14T12:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-05-14:/k2-campaign-16-data-processing-complete.html</id><summary type="html">&lt;p&gt;Data processing for K2 Campaign 16 is now complete
+and the pixel files and lightcurves are in the process
+of being shipped to the &lt;a href="http://archive.stsci.edu/k2"&gt;data archive at MAST&lt;/a&gt;.
+We anticipate that the data release will be announced near May 24th.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="k2-approved-programs.html#campaign-16"&gt;target list&lt;/a&gt; featured
+20,647 stars alongside 9,241 …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Data processing for K2 Campaign 16 is now complete
+and the pixel files and lightcurves are in the process
+of being shipped to the &lt;a href="http://archive.stsci.edu/k2"&gt;data archive at MAST&lt;/a&gt;.
+We anticipate that the data release will be announced near May 24th.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="k2-approved-programs.html#campaign-16"&gt;target list&lt;/a&gt; featured
+20,647 stars alongside 9,241 galaxies for the 
+&lt;a href="supernova-experiment"&gt;supernova experiment&lt;/a&gt;&lt;/b&gt;.
+Highlights included the M44 (Beehive) and M67 clusters, 
+dozens of exoplanets and exoplanet candidates revealed by K2 Campaign 5,
+and many late-type flare stars observed in short cadence.&lt;/p&gt;
+&lt;p&gt;Please keep an eye on our website for an announcement of the release
+and the associated &lt;a href="k2-data-release-notes.html"&gt;data release notes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.nasa.gov/feature/ames/kepler-s-gaze-shifts-toward-new-targets-supernovae-the-beehive-cluster-and-earth"&gt;&lt;img src="/images/news/c16cartoon300dpi-full.jpg" alt="K2 C16 Cartoon"&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>New in lightkurve: inspecting pixel data using tpf.interact()</title><link href="https://keplerscience.arc.nasa.gov/new-in-lightkurve-inspecting-pixel-data-using-tpfinteract.html" rel="alternate"></link><published>2018-05-11T01:00:00-07:00</published><updated>2018-05-11T01:00:00-07:00</updated><author><name>Michael Gully-Santiago</name></author><id>tag:keplerscience.arc.nasa.gov,2018-05-11:/new-in-lightkurve-inspecting-pixel-data-using-tpfinteract.html</id><summary type="html">&lt;p&gt;The new &lt;a href="http://lightkurve.keplerscience.org"&gt;lightkurve&lt;/a&gt; Python package
+for Kepler and K2 data analysis, which we &lt;a href="new-kepler-data-analysis-tools-and-tutorials-lightkurve-v10.html"&gt;first announced in March&lt;/a&gt;,
+contains a new feature: &lt;code&gt;interact()&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;The tool strives to solve a common stumbling block in Kepler data analysis:
+"&lt;em&gt;I see a blip in my lightcurve.  Is it real or instrumental?&lt;/em&gt;"
+&lt;code&gt;interact()&lt;/code&gt; alleviates the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The new &lt;a href="http://lightkurve.keplerscience.org"&gt;lightkurve&lt;/a&gt; Python package
+for Kepler and K2 data analysis, which we &lt;a href="new-kepler-data-analysis-tools-and-tutorials-lightkurve-v10.html"&gt;first announced in March&lt;/a&gt;,
+contains a new feature: &lt;code&gt;interact()&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;The tool strives to solve a common stumbling block in Kepler data analysis:
+"&lt;em&gt;I see a blip in my lightcurve.  Is it real or instrumental?&lt;/em&gt;"
+&lt;code&gt;interact()&lt;/code&gt; alleviates the guesswork by providing users with an easy-to-use
+Python notebook widget to interactively inspect the pixel data
+along a lightcurve.&lt;/p&gt;
+&lt;p&gt;A user can move a slider to rifle through cadences,
+while seeing the postage stamp images update in real time.
+A red vertical bar highlights the moment in the lightcurve.
+Mousing-over individual lightcurve points flashes up a hover-over tool tip
+with ancillary metadata about that particular cadence (e.g. quality flags).
+The tool offers many avenues for customization,
+including zooming, panning, and screen stretch. &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=89_sz-oG4VI"&gt;
+    &lt;img class="img-responsive" src="images/news/lightkurve-interact.gif" alt="Lightkurve tpf.interact() tool" style="margin:2em;"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The command &lt;code&gt;interact()&lt;/code&gt; is a method of the &lt;code&gt;KeplerTargetPixelFile&lt;/code&gt; class,
+meaning that you can simply load in a target pixel file and append &lt;code&gt;.interact()&lt;/code&gt; to the file as follows:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;lightkurve&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;KeplerTargetPixelFile&lt;/span&gt;
+&lt;span class="n"&gt;tpf&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;KeplerTargetPixelFile&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;from_archive&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;target&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;Trappist-1&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="n"&gt;tpf&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;interact&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;You will need to upgrade your installation of &lt;code&gt;lightkurve&lt;/code&gt; to the latest version
+(v1.0b5) for this to work. This can be done via the command line as follows:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ pip install lightkurve --upgrade
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;We invite you to try out &lt;code&gt;interact()&lt;/code&gt; today and &lt;a href="https://github.com/KeplerGO/lightkurve/issues/new"&gt;let us know if you have any problems by opening a GitHub Issue&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A &lt;a href="https://youtu.be/89_sz-oG4VI"&gt;&lt;strong&gt;YouTube screencast&lt;/strong&gt;&lt;/a&gt; and a &lt;a href="http://lightkurve.keplerscience.org/tutorials/1.05-interact-with-lightcurves-and-tpf.html"&gt;tutorial in the documentation&lt;/a&gt; further illustrate the features of the tool.&lt;/p&gt;
+&lt;iframe width="800" height='450' src="https://www.youtube.com/embed/89_sz-oG4VI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</content></entry><entry><title>Call for Kepler/K2 Visiting Scientists</title><link href="https://keplerscience.arc.nasa.gov/call-for-keplerk2-visiting-scientists.html" rel="alternate"></link><published>2018-05-08T13:00:00-07:00</published><updated>2018-05-08T13:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-05-08:/call-for-keplerk2-visiting-scientists.html</id><summary type="html">&lt;p&gt;The Kepler/K2 mission operates a &lt;em&gt;Visiting Scientist Program&lt;/em&gt;
+which enables users of Kepler or K2 data
+to visit the mission headquarters at NASA Ames in California
+for a period of multiple days, weeks, or months.&lt;/p&gt;
+&lt;p&gt;The program gives both junior or senior researchers the opportunity
+to interact closely with …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The Kepler/K2 mission operates a &lt;em&gt;Visiting Scientist Program&lt;/em&gt;
+which enables users of Kepler or K2 data
+to visit the mission headquarters at NASA Ames in California
+for a period of multiple days, weeks, or months.&lt;/p&gt;
+&lt;p&gt;The program gives both junior or senior researchers the opportunity
+to interact closely with Kepler/K2 team members and instrument experts
+for a prolonged period of time.
+Visitors will also have the opportunity to give a seminar at NASA Ames.&lt;/p&gt;
+&lt;p&gt;Interested participants should submit a &amp;lt;2-page proposal
+that includes an outline of the research project, relevant experience,
+and the desired duration and period of the visit.
+Researchers of all career stages may apply.&lt;/p&gt;
+&lt;p&gt;Funds will normally be available
+to support the travel and lodging expenses
+of successful applicants, to be agreed upon acceptance.
+A desk and internet access will also be provided.&lt;/p&gt;
+&lt;p&gt;Proposals may be submitted at any time
+via e-mail to &lt;a href="keplergo@mail.arc.nasa.gov"&gt;keplergo@mail.arc.nasa.gov&lt;/a&gt;.
+Applications will be evaluated on a running basis
+with respect to several factors, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;scientific merit of the proposed project;&lt;/li&gt;
+&lt;li&gt;benefit of having access to Kepler/K2 experts to carry out the project;&lt;/li&gt;
+&lt;li&gt;contribution of the project to Kepler/K2’s long-term legacy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="images/news/visiting-scientist-2.jpg"&gt;
+&lt;img class="img-responsive" src="images/news/visiting-scientist-2.jpg" alt="Visiting scientist" style="max-width:500px; float: left; padding:2em;"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="images/news/visiting-scientist-1.jpg"&gt;
+&lt;img class="img-responsive" src="images/news/visiting-scientist-1.jpg" alt="Visiting scientist" style="max-width:500px; float: left; padding:2em;"&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>K2 uniform global reprocessing underway</title><link href="https://keplerscience.arc.nasa.gov/k2-uniform-global-reprocessing-underway.html" rel="alternate"></link><published>2018-04-27T14:00:00-07:00</published><updated>2018-04-27T14:00:00-07:00</updated><author><name>Jeff Coughlin</name></author><id>tag:keplerscience.arc.nasa.gov,2018-04-27:/k2-uniform-global-reprocessing-underway.html</id><summary type="html">&lt;p&gt;The K2 mission has begun a global reprocessing of the C0–C14 K2 data with an updated, uniform version of the Kepler/K2 pipeline. C15 and later campaigns will be processed with the same pipeline version. This effort should enhance the scientific return of the K2 mission by providing users …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The K2 mission has begun a global reprocessing of the C0–C14 K2 data with an updated, uniform version of the Kepler/K2 pipeline. C15 and later campaigns will be processed with the same pipeline version. This effort should enhance the scientific return of the K2 mission by providing users with a high quality, uniformly processed and documented K2 dataset. This work will be performed on a best-effort basis as long as mission resources are available to do so — there is no guarantee that the Mission will able to reprocess every old campaign. The campaigns have been prioritized by enhanced scientific return as a result of reprocessing. Note that processing and delivery of new campaigns (e.g., C16, C17, etc.) will always be prioritized over reprocessing of older campaigns.&lt;/p&gt;
+&lt;p&gt;All data will be delivered to the &lt;a href="http://archive.stsci.edu/k2"&gt;K2 data archive at MAST&lt;/a&gt; as it is reprocessed, where the reprocessed data for a given campaign will replace the older processing when searching for data via &lt;a href="https://archive.stsci.edu/k2/data_search/search.php"&gt;MAST's K2 Data Search and Retrieval page&lt;/a&gt; and any other interfaces. The older data will remain available to users via a subdirectory in the &lt;a href="https://archive.stsci.edu/missions/k2/"&gt;MAST browser interface&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2 id="changes"&gt;Changes&lt;/h2&gt;
+&lt;p&gt;The list of pipeline changes have been grouped into two categories: Major and Minor. The Major changes affect the data at a significant level and/or are applicable to the vast majority of campaigns. The minor changes affect the data at a much less significant level and/or are applicable to only a small number of campaigns. At the end of each category a graphic is shown that visually demonstrates which campaigns are affected (or will be affected) by each change.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3 id="major-changes"&gt;Major Changes&lt;/h3&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4 id="dynablack"&gt;Dynablack&lt;/h4&gt;
+&lt;p&gt;A feature of the Kepler pipeline that was used during Kepler prime processing, but until now had not been implemented for K2, is the use of Dynamic Black Correction, or "Dynablack", which is essentially a more sophisticated algorithm to perform the CCD pixel-level calibration that accounts for time varying, instrument-induced artifacts in the pixel data.&lt;/p&gt;
+&lt;p&gt;Dynablack uses the full-frame images and collateral pixels to provide two main benefits compared to traditional pixel calibration:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Correct thermally dependent fine guidance sensor crosstalk pixels.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Identify rolling-band artifacts (see &lt;a href="https://archive.stsci.edu/kepler/manuals/KSCI-19033-002.pdf#page=75"&gt;§6.7 of the Instrument Handbook&lt;/a&gt;) with flags in the target pixel files.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Users can track rolling-band artifacts using the new RB_LEVEL flags in the FITS files. See &lt;a href="https://archive.stsci.edu/kepler/release_notes/release_notes25/KSCI-19065-002DRN25.pdf#page=11"&gt;§A.1.1 of the Kepler Data Release 25 Notes&lt;/a&gt; and &lt;a href="https://archive.stsci.edu/kepler/manuals/archive_manual.pdf#page=24"&gt;§2.3.2 of the Kepler Archive Manual&lt;/a&gt; for information on how to interpret and utilize the RB_LEVEL flags. In-particular, users should note that the RB_LEVEL test at the two shortest durations, 3 cadences (1.5 hours) and 6 cadences (3 hours), is overly sensitive to instrument noise and does not offer a reliable indicator of the presence of rolling band pattern noise. Because the binary "Rolling Band Detected" QUALITY and SAP_QUALITY flags (bits 18, 19) in the target pixel files and light curve files are based on a rolling band detection at any of the test durations (indicated by the keyword RBTDURi), they also do not provide a reliable indicator of the presence of rolling band pattern noise. The RB_LEVEL flags at durations greater than 6 cadences (3 hours) provide the best indication of the presence of rolling band artifacts.&lt;/p&gt;
+&lt;p&gt;As shown in &lt;a href="#k2-proc-status-major"&gt;Figure Major-Proc-Status&lt;/a&gt;, Dynablack was never implemented for campaigns prior to C15, but will be implemented during the global reprocessing for old campaigns, as well as for new campaigns.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4 id="not-in-fine-point-flag"&gt;Not in Fine Point Flag&lt;/h4&gt;
+&lt;p&gt;Throughout K2, software on-board the spacecraft would record when it considered itself not in fine point. The pipeline would flag these cadences as "Spacecraft is not in fine point" (QUALITY flag bit #16, decimal=32768) and the data would be gapped in both PA and PDC lightcurves. Starting with C14, a change in the on-board software resulted in additional cadences being flagged as "Spacecraft is not in fine point" (QUALITY flag bit #16, decimal=32768). Especially after this change, but also before, it was noticed that the "Spacecraft is not in fine point" flag was set on cadences that actually contained good data where the spacecraft pointing was acceptable for science observations.&lt;/p&gt;
+&lt;p&gt;As shown in &lt;a href="#k2-proc-status-major"&gt;Figure Major-Proc-Status&lt;/a&gt;, the "Spacecraft is not in fine point" flag (QUALITY flag bit #16, decimal=32768) was used for all campaigns prior to C15. Starting with C15 and reprocessed campaigns, it is now ignored in the pipeline. See the next section, "Coarse Pointing Flag", for how cadences with poor pointing are now appropriately handled in the pipeline.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4 id="coarse-pointing-flag"&gt;Coarse Pointing Flag&lt;/h4&gt;
+&lt;p&gt;For C15+ and the global reprocessing, the pipeline is now using the "Spacecraft is in coarse point" flag (QUALITY flag bit #3, decimal=4) to identify cadences with significant pointing error. This flag is set by the mission based on the measured pointing error (using high-frequency sub-cadence telemetry) exceeding 1.5 pixels for 4 or more continuous cadences, or exceeding 2.5 pixels for a single cadence. The pipeline will treat these "coarse-point" cadences by gapping them in the PDC lightcurves for the flagged cadences. The mission has found that implementing this flag significantly improves the measured precision of the PDC lightcurves, both as a result of eliminating flux outliers due to poor pointing and PDC being able to focus more of its detrending power on correcting broad systematics and not single outliers. The mission recommends that starting with C15, users look to QUALITY flag bit #3 as an indicator of poor spacecraft pointing.&lt;/p&gt;
+&lt;p&gt;As shown in &lt;a href="#k2-proc-status-major"&gt;Figure Major-Proc-Status&lt;/a&gt;, the coarse point flags were implemented starting with C14 and all new campaigns, and will be implemented for all reprocessed past campaigns.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4 id="cosmic-ray-threshold"&gt;Cosmic-Ray Threshold&lt;/h4&gt;
+&lt;p&gt;The Kepler pipeline employs an algorithm to detect when cosmic rays impact the collateral area of the CCD, used to calibrate the pixel-level data, and correct for the cosmic rays so that the data are properly calibrated. The original Kepler pipeline was not designed to work with significant (&amp;gt; 1 pixel) motion, especially in the presence of very bright objects, which are both common to K2. As a result, it was noticed that the cosmic ray detection algorithm was sometimes falsely triggering, which resulted in an artificial suppression of the collateral smear data, and thus an under-correction of all pixels in an affected column. The net effect is the presence of bright columns in affected cadences (examples can be seen in the &lt;a href="k2-data-release-notes.html#k2-campaign-8"&gt;C8 data release notes&lt;/a&gt; under 'Intermittent Streaks'). This effect was not noticed to be significant until many campaigns had been processed, and varies significantly per campaign and channel.&lt;/p&gt;
+&lt;p&gt;After investigation, the mission determined the most effective course of action was to raise the threshold of the collateral cosmic ray detector from 4σ to 7σ, which struck a balance between minimizing false detections while still detecting and correcting for significant, real cosmic ray events. This should improve photometric precision by reducing the number of flux outliers in the lightcurves.&lt;/p&gt;
+&lt;p&gt;As shown in &lt;a href="#k2-proc-status-major"&gt;Figure Major-Proc-Status&lt;/a&gt;, the cosmic ray threshold was set to 4σ for C0–C10 and 7σ for C11 and all newer campaigns. The threshold will be set to 7σ for all new campaigns and reprocessed past campaigns.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4 id="short-cadence"&gt;Short-Cadence&lt;/h4&gt;
+&lt;p&gt;The Kepler pipeline corrects short-cadence PA lightcurves by interpolating from the long-cadence cotrending basis vectors (CBVs) that are produced as a result of long-cadence PDC. This method was not designed with the significant motion and resulting systematics that arise in K2 data, and as a result does a poor job of detrending K2 short-cadence data. For this reason, beyond an initial inspection based on C2, the mission did not attempt to produce short-cadence K2 light curves as part of its processing for C0–C14, as shown in &lt;a href="#k2-proc-status-major"&gt;Figure Major-Proc-Status&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As part of the global reprocessing effort, the mission revisited the prospect of producing short-cadence light curves by doing so for C15. In consultation with the community, the mission decided that despite the overall poor detrending, there was value in having short-cadence light curves available for at least an initial inspection, especially given that currently short-cadence light curves are not produced for most short cadence targets as part of the community-delivered high-level science products. The hope is that these pipeline short-cadence light curves may be used for initial inspection of the short-cadence data, which might prompt users to perform their own short-cadence detrending, or better adapt the existing long-cadence &lt;a href="https://archive.stsci.edu/k2/cbv.html"&gt;Cotrending Basis Vector (CBV) files&lt;/a&gt; for use in detrending the short-cadence data.&lt;/p&gt;
+&lt;p&gt;Starting with C15, as well as for all reprocessed data, an attempt to produce and deliver short-cadence light curves will be made — if significant issues arise in producing them for any campaign though, their production for that campaign may be abandoned in order to proceed with processing in a timely manner. Users are again strongly cautioned that no work was done to adapt the Kepler pipeline's detrending module (PDC), developed for Kepler data, to work well on short-cadence K2 data. &lt;em&gt;Thruster firings are especially poorly corrected for most short-cadence targets, and other systematic features may not be corrected well.&lt;/em&gt; See Figure C15-SC-Example-1 in the &lt;a href="k2-data-release-notes.html#k2-campaign-15"&gt;C15 data release notes&lt;/a&gt; (under the section 'Short Cadence Light Curves') for an example of remaining systematics in short-cadence data around thruster firings. However, some targets do have adequate detrending in short-cadence, and even in the cases of poor detrending, short-term astrophysical variation can be seen for targets where such astrophysical variation exists. See Figure C15-SC-Example-2 in the &lt;a href="k2-data-release-notes.html#k2-campaign-15"&gt;C15 data release notes&lt;/a&gt; where the ~18 min periodic variations of the AM CVn type binary HP Lip are readily apparent in the C15 short-cadence light curve. It should also be noted that short-cadence lightcurve production will be performed at a low-priority, best-effort basis, such that if any errors occur when processing the short-cadence light curves, the mission will not expend resources to do so if it affects the ability to process long-cadence data for other campaigns.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div&gt;
+ &lt;i id="cow"&gt;Figure Major-Proc-Status: The status of major changes planned for the final uniform processing as of April 27, 2018.&lt;/i&gt;
+ &lt;br&gt;
+ &lt;font color="red"&gt;Red indicates the final processing setting is *not* yet implemented in currently available data as of April 27, 2018.&lt;/font&gt;
+ &lt;br&gt;
+ &lt;font color="blue"&gt;Blue indicates the final processing setting has been implemented in currently available data as of April 27, 2018.&lt;/font&gt;
+ &lt;/i&gt;
+ &lt;a href="images/news/K2-Proc-Status-Major.png"&gt;&lt;img class="img-responsive" style="padding:0.5em;" src="images/news/K2-Proc-Status-Major.png" id="k2-proc-status-major" alt="Status of K2 Processing Major Issues"&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3 id="minor-changes"&gt;Minor Changes&lt;/h3&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4 id="lde-parity-error-flag"&gt;LDE Parity Error flag&lt;/h4&gt;
+&lt;p&gt;An 'LDE Parity Error' flag is set on-board the spacecraft for all targets when a bright object on that channel bleeds into the serial readout register area of the CCD and results in an out of bounds value in the analog-to-digital converter. Since this was an extremely rare event during the Kepler mission, the pipeline was set to discard all cadences flagged as 'LDE Parity Error' in both the target pixel and lightcurve files for all targets. With K2, there are many bright stars, and bright, moving planets that occur in several campaigns. This results in the 'LDE Parity Error' flag being tripped for multiple cadences in several campaigns. Specifically, 1,237 cadences are flagged in C2 most likely due to the Kp~4 star EPIC 205283834, 128 in C6 most likely due to Spica, 148 in C11 most likely due to Saturn, and between 2–11 cadences in all other campaigns. Inspecting the cadences, the actual data was found to not exhibit any defects, and thus these cadences should ideally not be discarded.&lt;/p&gt;
+&lt;p&gt;As shown in &lt;a href="#k2-proc-status-minor"&gt;Figure Minor-Proc-Status&lt;/a&gt;, the pipeline was set to discard cadences based on the 'LDE Parity Error' flag for C0, C1, C3, C4, C6, and C8. No ill effects were seen in the other campaigns when the pipeline was set to ignore the flag. Thus, for C15 and all future campaigns, as well as all reprocessing, the pipeline will continue to ignore the flag, which will result in more cadences with good data available to users.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4 id="momentum-dump-flag"&gt;Momentum Dump Flag&lt;/h4&gt;
+&lt;p&gt;A 'Momentum Dump' flag is set on-board the spacecraft for all targets when the spacecraft initiates a momentum dump (a.k.a. a 'Re-Sat'). This happens about every 2 days as part of normal K2 operations to maintain spacecraft pointing with two reaction wheels. During this time, the spacecraft can move up to half a degree within a cadence, which will significantly affect the ability to measure accurate photometry during an affected cadence. The Kepler pipeline is nominally set to discard cadences flagged as 'Momentum Dump' in both the target pixel and lightcurve files.&lt;/p&gt;
+&lt;p&gt;As shown in &lt;a href="#k2-proc-status-minor"&gt;Figure Minor-Proc-Status&lt;/a&gt;, the pipeline utilized the 'Momentum Dump' flag for C0–C5 and C11–C15. For C6–C10, the mission experimented with setting the pipeline to ignore the flag, as there was a possibility that some of these flagged cadences did not have significant motion and might produce accurate photometry. However, upon examination based on the C6–C10 data, the mission found that indeed these flagged cadences should be discarded and accurate photometry was not able to be recovered for them. Thus, for C15 and all future campaigns, as well as all reprocessing, the pipeline will discard cadences flagged as 'Momentum Dump' (QUALITY and SAP_QUALITY bit #6, decimal value = 32) in both the target pixel and lightcurve files. This will result in ~40 less cadences for C6–C10, but likely improved light curves as PDC will be able to better detrend the data without have to spend power on correcting flux outliers as a result of the momentum dumps.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4 id="c13-smear-coefficient"&gt;C13 Smear Coefficient&lt;/h4&gt;
+&lt;p&gt;In C13, the 1st magnitude star Aldebaran on channel 73 bleeds heavily into the serial register of the CCD, corrupting the first three rows of the masked smear region. While these rows are not used for the smear correction, at times during C13 the saturation spill covered more rows in the masked smear, extending up to row 15 on channel 74 (see figure Aldebaran in the &lt;a href="k2-data-release-notes.html#k2-campaign-13"&gt;C13 data release notes&lt;/a&gt; under the section 'Smear Correction Error on Channel 74'). Trailing black rows 7-18 are fit with a linear model to estimate the black (bias) level for the masked smear region. At these times, the trailing black estimate for the masked smear signal was corrupted, resulting in corrupted black and smear measurements for the affected cadences. Since the black signal is subtracted from all the pixels in the channel, all targets on channel 74 were affected for these cadences, resulting in light curves that show significant chatter in baseline flux level for affected cadences. The black and smear corruption effects were most prominent in the first 80 cadences of the campaign and again in the period between cadence 1800-3200 (see Figure Channel 74 Trailing Black in the &lt;a href="k2-data-release-notes.html#k2-campaign-13"&gt;C13 data release notes&lt;/a&gt; under the section 'Smear Correction Error on Channel 74'). The net effect is to render the data for targets on channel 74 in C13 nearly unusable for science study (without significant work by users to recalibrate the pixel data).&lt;/p&gt;
+&lt;p&gt;As shown in &lt;a href="#k2-proc-status-minor"&gt;Figure Minor-Proc-Status&lt;/a&gt;, this effect is unique to C13. When C13 is reprocessed, the black level model coefficients for channel 74 will be manually set to reasonable values for all cadences, thus producing nominal data for all targets on channel 74.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4 id="ffi-interpolation-bug"&gt;FFI Interpolation Bug&lt;/h4&gt;
+&lt;p&gt;When there are more than one FFIs in a given campaign, the Kepler pipeline interpolates data between those FFIs, and extrapolates before and after each, to account for variations over time when calibrating the pixel-level data. A bug was discovered where FFIs from later campaigns were used to interpolate for calibration of the current campaign. Since there are usually two FFIs per campaign, taken ~1/3 and ~2/3 the way through, this bug affected the pixel-level data (and thus lightcurves and other products as well) for the last ~1/3 of a campaign, where the interpolation was between the last FFI of the current campaign and the first FFI of the next campaign (with a different field-of-view). The latest cadences of the campaign are affected the most. The exact impact of the effect is not known, but is thought to be small given that the FFI data are only used to supplement the undershoot correction in calibration and the interpolation will weight the FFI values towards the correct campaign.&lt;/p&gt;
+&lt;p&gt;As shown in &lt;a href="#k2-proc-status-minor"&gt;Figure Minor-Proc-Status&lt;/a&gt;, because campaigns were predominately processed in the order they were observed, this bug only affected C1 and C2, which were processed when FFIs for later campaigns were already ingested. The bug has been fixed in the pipeline code and so C1 and C2, as well as any other campaigns, will not suffer from it when reprocessed.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4 id="scrambled-uncertainties"&gt;Scrambled Uncertainties&lt;/h4&gt;
+&lt;p&gt;A bug in the Kepler pipeline was discovered that caused the uncertainties on the smear calibration data for each column to be randomly scrambled, i.e., while each column's smear value was correct, it had a random uncertainty from another column, which can vary by ~20% column-to-column. When these uncertainties are propagated into the pixel-level flux value uncertainties, it results in incorrect flux uncertainties on the level of ~0.3%. The biggest impact this has is on the selection of the optimal photometric aperture, the algorithm for which is known to be overly sensitive to the uncertainties. Tests performed by the mission with the bug present versus the bug fixed confirm that while the bug had no significant effect on overall photometric precision, it did cause a significant change in the photometric aperture selected for a small number of targets.&lt;/p&gt;
+&lt;p&gt;As shown in &lt;a href="#k2-proc-status-minor"&gt;Figure Minor-Proc-Status&lt;/a&gt;, C0–C10 were affected by this bug before it was detected and corrected, and thus will not contain the bug after when they are reprocessed.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4 id="undelivered-targets"&gt;Undelivered Targets&lt;/h4&gt;
+&lt;p&gt;During the initial processing for three campaigns there were various reasons that some targets did not have target-pixel and/or light-curve data delivered. For C2, no lightcurves were delivered as the Kepler pipeline had not been fully adapted to work for K2 at the time, and until the code was finalized, it was deemed best to just produce target pixel files. For C2, C11a, C11b, and C14, there were 2–3 targets each that had an error when computing their centroids such that no WCS information was available and a FITS file could not be created for those targets, and thus no target pixel files nor lightcurves were delivered. For C11b, there were 191 targets that did not have delivered target pixel files or lightcurves due to a bug in how the pipeline FITS file creator was configured to run.&lt;/p&gt;
+&lt;p&gt;As shown in &lt;a href="#k2-proc-status-minor"&gt;Figure Minor-Proc-Status&lt;/a&gt;, only C2, C11, and C14 had undelivered targets. For global reprocessing, all the issues mentioned above have been fixed/addressed and thus the mission expects to be able to successfully deliver the missing files when the affected campaigns are processed.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div&gt;
+&lt;i&gt;Figure Minor-Proc-Status: The status of minor changes planned for the final uniform processing as of April 27, 2018.&lt;/i&gt;
+&lt;br&gt;
+&lt;font color="red"&gt;Red indicates the final processing setting is *not* yet implemented in currently available data as of April 27, 2018.&lt;/font&gt;
+&lt;br&gt;
+&lt;font color="blue"&gt;Blue indicates the final processing setting has been implemented in currently available data as of April 27, 2018.&lt;/font&gt;
+ &lt;a href="images/news/K2-Proc-Status-Minor.png"&gt;&lt;img class="img-responsive" style="padding:0.5em;" src="images/news/K2-Proc-Status-Minor.png" id="k2-proc-status-minor" alt="Status of K2 Processing Major Issues"&gt;
+&lt;/a&gt;
+&lt;/div&gt;</content></entry><entry><title>K2 Campaign 15 data release notes available</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-15-data-release-notes-available.html" rel="alternate"></link><published>2018-04-23T08:00:00-07:00</published><updated>2018-04-23T08:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-04-23:/k2-campaign-15-data-release-notes-available.html</id><summary type="html">&lt;p&gt;The &lt;a href="/k2-data-release-notes.html#k2-campaign-15"&gt;data release notes for K2 Campaign 15&lt;/a&gt; are now available online.
+We encourage all users to review the notes.&lt;/p&gt;</summary><content type="html">&lt;p&gt;The &lt;a href="/k2-data-release-notes.html#k2-campaign-15"&gt;data release notes for K2 Campaign 15&lt;/a&gt; are now available online.
+We encourage all users to review the notes.&lt;/p&gt;</content></entry><entry><title>We are hiring for a Kepler/K2 Support Scientist!</title><link href="https://keplerscience.arc.nasa.gov/we-are-hiring-for-a-keplerk2-support-scientist.html" rel="alternate"></link><published>2018-04-03T12:00:00-07:00</published><updated>2018-04-03T12:00:00-07:00</updated><author><name>Jeff Coughlin</name></author><id>tag:keplerscience.arc.nasa.gov,2018-04-03:/we-are-hiring-for-a-keplerk2-support-scientist.html</id><summary type="html">&lt;p&gt;The Kepler/K2 Science Center is seeking to fill a staff position within the Kepler/K2 Science Office (SO) at NASA’s Ames Research Center and with the SETI Institute&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;img src="images/we-are-hiring-banner.jpg" alt="hiring banner"&gt;&lt;/p&gt;
 &lt;p&gt;The Kepler/K2 Science Center is seeking to fill a staff position within the Kepler/K2 Science Office (SO) at NASA’s Ames Research Center and with the SETI Institute.&lt;/p&gt;
 &lt;h2 id="job-ad"&gt;Job ad&lt;/h2&gt;
 &lt;p&gt;&lt;i&gt;Support Scientist, Kepler/K2 Science Center&lt;/i&gt;&lt;br&gt;
@@ -226,8 +476,7 @@ located towards the constellations of Scorpius.&lt;/p&gt;
 &lt;p&gt;Users are encouraged to contact, cite, and collaborate with the
 &lt;a href="k2-approved-programs.html#campaign-15"&gt;teams who proposed the observations&lt;/a&gt;.
 We also encourage users to carefully review the associated
-&lt;a href="k2-data-release-notes.html"&gt;data release notes&lt;/a&gt;,
-which are expected to become available soon.&lt;/p&gt;
+&lt;a href="k2-data-release-notes.html"&gt;data release notes&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;a href="images/k2/k2-c15-field.png"&gt;&lt;img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c15-field.png" alt="K2 C15 Field"&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>K2 Campaign 16 completed successfully</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-16-completed-successfully.html" rel="alternate"></link><published>2018-03-01T06:00:00-08:00</published><updated>2018-03-01T06:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-03-01:/k2-campaign-16-completed-successfully.html</id><summary type="html">&lt;p&gt;The Kepler spacecraft successfully completed its 
 &lt;a href="k2-campaign-16-science-program-now-available.html"&gt;K2 Campaign 16&lt;/a&gt; 
 on February 25th, and the full data set has now been downlinked
@@ -1070,12 +1319,16 @@ All investigators &lt;em&gt;must&lt;/em&gt; update their version of the
 to version 7.0, released on 16 June 2017,
 to take the final field positions into account. &lt;/p&gt;
 &lt;p&gt;K2fov can be updated from the command line using pip:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;pip install K2fov --upgrade --no-deps
-&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;pip install K2fov --upgrade --no-deps
+&lt;/pre&gt;&lt;/div&gt;
+
+
 &lt;p&gt;The version number of your K2fov installation may be verified
 using the following command:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;python -c "import K2fov; print(K2fov.__version__)"
-&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;python&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;c&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;import K2fov; print(K2fov.__version__)&amp;quot;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
 &lt;p&gt;This should return "7.0.0" or higher. If the number is lower,
 or if you see an error message, then your installation of K2fov is outdated.&lt;/p&gt;
 &lt;h3 id="questions"&gt;Questions?&lt;/h3&gt;
@@ -2400,12 +2653,16 @@ All users are nevertheless encouraged to update the
 &lt;a href="software.html#k2fov"&gt;K2fov&lt;/a&gt; target selection tool
 to version 6.2, released on 14 Nov 2016, which includes the change.&lt;/p&gt;
 &lt;p&gt;K2fov can be updated from the command line using pip:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;pip install K2fov --upgrade
-&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;pip install K2fov --upgrade
+&lt;/pre&gt;&lt;/div&gt;
+
+
 &lt;p&gt;The version number of your K2fov installation may be verified
 using the following command:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;python -c "import K2fov; print(K2fov.__version__)"
-&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;python&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;c&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;import K2fov; print(K2fov.__version__)&amp;quot;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
 &lt;p&gt;This must return "6.2.0" or higher. If the number is lower, or if you see an error message, then your installation of K2fov is outdated and must be upgraded. &lt;/p&gt;
 &lt;p&gt;Campaign 16 does not require a change due to the use of a different,
 forward-facing spacecraft configuration.&lt;/p&gt;
@@ -2819,12 +3076,16 @@ All investigators &lt;em&gt;must&lt;/em&gt; update their version of the
 to version 5.1, released on 14 Aug 2016,
 to take the final field positions into account. &lt;/p&gt;
 &lt;p&gt;K2fov can be updated from the command line using pip:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;pip install K2fov --upgrade
-&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;pip install K2fov --upgrade
+&lt;/pre&gt;&lt;/div&gt;
+
+
 &lt;p&gt;The version number of your K2fov installation may be verified
 using the following command:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;python -c "import K2fov; print(K2fov.__version__)"
-&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;python&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;c&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;import K2fov; print(K2fov.__version__)&amp;quot;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
 &lt;p&gt;This should return "5.1.0" or higher. If the number is lower,
 or if you see an error message, then your installation of K2fov is outdated.&lt;/p&gt;
 &lt;h3 id="questions"&gt;Questions?&lt;/h3&gt;
@@ -3473,12 +3734,16 @@ All users are nevertheless encouraged to update the
 &lt;a href="software.html#k2fov"&gt;K2fov&lt;/a&gt; target selection tool
 to version 4.0, which was released on 27 Jan 2016 to include the change.&lt;/p&gt;
 &lt;p&gt;K2fov can be updated from the command line using pip:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;pip install K2fov --upgrade
-&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;pip install K2fov --upgrade
+&lt;/pre&gt;&lt;/div&gt;
+
+
 &lt;p&gt;The version number of your K2fov installation may be verified
 using the following command:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;python -c "import pkg_resources; print(pkg_resources.require('K2fov')[0].version)"
-&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;python&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;c&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;import pkg_resources; print(pkg_resources.require(&amp;#39;K2fov&amp;#39;)[0].version)&amp;quot;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
 &lt;p&gt;This should return "4.0.0" or higher.&lt;/p&gt;
 &lt;h3 id="background"&gt;Background&lt;/h3&gt;
 &lt;p&gt;Campaigns 11, 12, and 13 are being rotated slightly to
