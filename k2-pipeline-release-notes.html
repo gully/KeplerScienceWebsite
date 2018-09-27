@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2018-06-05" />
+    <meta name="dc.date.modified" content="2018-09-27" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -147,34 +147,62 @@ in August 2015, using pelican-bootstrap and flatly.
 <p>Below are notes on the features of the software used to process the K2 data. Any changes to the pipeline that directly impact the data quality or format are listed for each data release. Any change impacts all subsequent data releases unless stated otherwise.</p>
 <p>For more information about the Kepler pipeline see the Kepler manuals: <a href="http://archive.stsci.edu/kepler/manuals/KSCI-19081-001_Data_Processing_Handbook.pdf">Data Processing Handbook</a> and <a href="http://archive.stsci.edu/kepler/manuals/archive_manual.pdf">Archive Manual.</a></p>
 <p>Information about each specific campaign can be found in the links associated with each data release.</p>
+<h3 id="data-release-26">Data Release 26</h3>
+<ul>
+<li>September 2018</li>
+<li>SOC 9.3</li>
+<li>Campaigns: <a href="k2-data-release-notes.html#k2-campaign-13">C3</a></li>
+</ul>
+<p>This is the delivery of the expected-to-be final processing of C3 as part of the <a href="k2-uniform-global-reprocessing-underway.html">global uniform reprocessing effort</a>.</p>
+<p>No features of the pipeline or data files have changed from Data Release 25 (but there have been numerous changes the last release of C3 data under Data Release 10). For further information about the content of this delivery see the previous Release Notes below and the <a href="k2-uniform-global-reprocessing-underway.html">news post on global reprocessing</a>.</p>
+<hr/>
+<h3 id="data-release-25">Data Release 25</h3>
+<ul>
+<li>Aug 2018</li>
+<li>SOC 9.3</li>
+<li>Campaigns: <a href="k2-data-release-notes.html#k2-campaign-17">C17</a></li>
+</ul>
+<p>This is the first delivery of C17. No features of the pipeline or data files have changed from Data Release 24.
+For further information about the content of this delivery see the previous Release Notes below.</p>
+<hr/>
+<h3 id="data-release-24">Data Release 24</h3>
+<ul>
+<li>July 2018</li>
+<li>SOC 9.3</li>
+<li>Campaigns: <a href="k2-data-release-notes.html#k2-campaign-13">C13</a></li>
+</ul>
+<p>This is the delivery of the expected-to-be final processing of C13 as part of the <a href="k2-uniform-global-reprocessing-underway.html">global uniform reprocessing effort</a>.</p>
+<p>No features of the pipeline or data files have changed from Data Release 23 (but there have been numerous changes the last release of C13 data under Data Release 19). For further information about the content of this delivery see the previous Release Notes below and the <a href="k2-uniform-global-reprocessing-underway.html">news post on global reprocessing</a>.</p>
+<hr/>
+<h3 id="data-release-23">Data Release 23</h3>
+<ul>
+<li>May 2018</li>
+<li>SOC 9.3</li>
+<li>Campaigns: <a href="k2-data-release-notes.html#k2-campaign-16">C16</a></li>
+</ul>
+<p>This is the first delivery of C16. No features of the pipeline or data files have changed from Data Release 22.
+For further information about the content of this delivery see the previous Release Notes below.</p>
+<hr/>
 <h3 id="data-release-22">Data Release 22</h3>
 <ul>
 <li>March 2018</li>
 <li>SOC 9.3</li>
 <li>Campaigns: <a href="k2-data-release-notes.html#k2-campaign-15">C15</a></li>
 </ul>
-<p>This is the first delivery of C15. There have been some pipeline changes put in place for this
-delivery that are designed to support the uniform reprocessing of all K2 campaigns, which will be explained shortly
-via a news item. The
-changes include activating the dynamic black correction algorithm used during Kepler data processing,
-producing short cadence light curves, correcting bugs in the processing.
-For additional information about the content of this delivery see the previous Release Notes
-below.</p>
-<p>Pipeline changes put in place for Data Release 22:</p>
-<ol>
-<li>
-<p>Dynablack</p>
-</li>
-<li>
-<p>Short Cadence light curves</p>
-</li>
-<li>
-<p>FFI interpolation bug fix</p>
-</li>
-<li>
-<p>Use of coarse point flag for data gapping</p>
-</li>
-</ol>
+<p>This is the first and final delivery of C15. This delivery utilized the same pipeline version as Data Release 21, i.e., the version being used for C15 and all subsequent campaigns, as well as to reprocess C0–C14, as part of the the <a href="k2-uniform-global-reprocessing-underway.html">global uniform reprocessing effort</a>.</p>
+<p>(Please note that data release number 21 was assigned to the C2 reprocessing, and data release number 22 was assigned to the C15 processing, because C2 reprocessing started just before C15 processing — C15 processing was completed first though, and thus the release date for data release 22 comes before the release date for data release 21.)</p>
+<hr/>
+<h3 id="data-release-21">Data Release 21</h3>
+<ul>
+<li>May 2018</li>
+<li>SOC 9.3</li>
+<li>Campaigns: <a href="k2-data-release-notes.html#k2-campaign-2">C2</a></li>
+</ul>
+<p>This is the delivery of the expected-to-be final processing of C2 as part of the <a href="k2-uniform-global-reprocessing-underway.html">global uniform reprocessing effort</a>.</p>
+<p>There have been numerous pipeline changes put in place for this delivery.
+The changes include activating the dynamic black correction algorithm used during Kepler data processing,
+producing short cadence light curves, improved data flagging and cosmic-ray correction, and other various improvements and bug fixes.
+For details about the changes put in place for the global reprocessing effort, please read <a href="k2-uniform-global-reprocessing-underway.html">the associated announcement</a>.</p>
 <hr/>
 <h3 id="data-release-20">Data Release 20</h3>
 <ul>
@@ -242,11 +270,11 @@ working on an accounting of the impact of this bug on existing K2 data.</p>
 updates to the K2 pipeline.</p>
 <h3 id="data-release-16">Data Release 16</h3>
 <ul>
-<li>pending</li>
+<li>Not Delivered</li>
 <li>SOC 9.3</li>
 <li>Campaigns: C0</li>
 </ul>
-<p>The updated release of C0 is pending.</p>
+<p>Data Release 16 was assigned to a reprocessing of C0 that was never delivered to the archives. While it utilized the improvements from each data release below, there was an issue with the cosmic ray correction routine that resulted in worse data quality than what was previously delivered. Thus, the Data Release 16 dataset was not delivered, and a subsequent processing is planned as part of the <a href="k2-uniform-global-reprocessing-underway.html">uniform global reprocessing effort</a> for Fall of 2018.</p>
 <h3 id="data-release-15">Data Release 15</h3>
 <ul>
 <li>December 2016</li>
@@ -266,14 +294,24 @@ for a description of the content of Type-1 versus Type-2 (nominal) TPFs.  No oth
 <li>Campaigns: <a href="k2-data-release-notes.html#k2-campaign-1">C1</a></li>
 </ul>
 <p>This is a re-delivery of C1, including the first delivery of C1 long cadence light curve files.
-No other features of the the data processing have changed. See below for previous updates to the K2 pipeline.</p>
+Data Release 14 includes long cadence light curves for C1 targets and updates the exported data
+products to include pipeline derived target coordinates and thruster firing flags.
+The C1 FITS target pixel files are also updated to
+Type-2 files. See <a href="#type1v2">Type-1 vs Type-2 TPFs</a> above and notes under
+<a href="k2-pipeline-release-notes.html#data-release-5">Data Release 5</a> for more details on Type-2 TPFs.
+This release also corrects the short cadence collateral bug described in the
+<a href="http://archive.stsci.edu/kepler/KSCI-19080-002.pdf">Global Erratum for Kepler Q0-Q17 &amp; K2 C0-C5 Short-Cadence Data, KSCI-19080</a>.
+This release replaces the short cadence data previously delivered to the archive in Data Release 3.
+Specific targets known to have their SC calibration improved by Data Release 14 are identifed
+in the <a href="http://archive.stsci.edu/missions/k2/catalogs/K2_scrambled_short_cadence_collateral_target_list.csv">list of affected targets at the MAST</a>.</p>
+<p>No other features of the the data processing have changed. See below for previous updates to the K2 pipeline.</p>
 <h3 id="data-release-13">Data Release 13</h3>
 <ul>
-<li>pending</li>
+<li>Not Delivered</li>
 <li>SOC 9.3</li>
 <li>Campaigns: C2</li>
 </ul>
-<p>The updated release of C2 is pending.</p>
+<p>Data Release 13 was assigned to a reprocessing of C2 that was never delivered to the archives. While it utilized the improvements from each data release below, there was an issue with the cosmic ray correction routine that resulted in worse data quality than what was previously delivered. Thus, the Data Release 13 dataset was not delivered, and a subsequent processing (Data Release 21) was performed that both incorporated pipeline improvements and fixed the cosmic ray issue, which was delivered.</p>
 <h3 id="data-release-12">Data Release 12</h3>
 <ul>
 <li>September 2016</li>
@@ -443,7 +481,12 @@ document.write(document.lastModified);
             <div class="nav nav-stacked fixed" id="mytoc">
             <div class="toc">
 <ul>
+<li><a href="#data-release-26">Data Release 26</a></li>
+<li><a href="#data-release-25">Data Release 25</a></li>
+<li><a href="#data-release-24">Data Release 24</a></li>
+<li><a href="#data-release-23">Data Release 23</a></li>
 <li><a href="#data-release-22">Data Release 22</a></li>
+<li><a href="#data-release-21">Data Release 21</a></li>
 <li><a href="#data-release-20">Data Release 20</a></li>
 <li><a href="#data-release-19">Data Release 19</a></li>
 <li><a href="#data-release-18">Data Release 18</a></li>
@@ -508,7 +551,7 @@ document.write(document.lastModified);
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Mon 04 June 2018
+         Last modified: Wed 26 September 2018
             &middot; Editor: Geert Barentsen &middot; NASA Official: Jessie Dotson
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
